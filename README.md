@@ -2,6 +2,8 @@ Proccessing big data into database using Laravel.
 
 this is a laravel process that neatly writes the contents of the JSON file away to a database.
 
+this process use laravel jobs and writes the data in the background so if any jobs failed it will retry automatically and even if we kill the server all failed jobs will be restarted without duplicating the data or needs to send a new request
+
 To get started:
 
 First you need to make the database configration, I used Postgres Sql database in this project because it's fast and powerful database.
