@@ -12,8 +12,10 @@ After you configure the database run the migrate command.
 
 Second give the start.sh file execuation permission, this file will run the server with all needed commands, after you give the permission 
 
-run this command ./start.sh
-
+run this command 
+```
+./start.sh
+```
 The server should be working now and you are ready to go.
 
 send the POST request with JSON data to your-host/api/clients. Now you can check the database using PgAdmin to see the records inside it.
