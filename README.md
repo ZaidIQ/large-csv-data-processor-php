@@ -1,5 +1,3 @@
-Optimizing your GitHub repo's README involves making it more informative, organized, and appealing to potential users and contributors. Here's an improved version:
-
 # Laravel Big Data Processing into Database
 
 This repository contains a Laravel-based solution for efficiently processing large datasets and storing them in a database. This process is designed to handle big data, ensuring data integrity and scalability.
